@@ -1,0 +1,11 @@
+{
+  "@@localeHardCodedTextPartOne": "en_IN",
+  "addOnMinimumMessage": "Only ships with orders $25 or more",
+  "dSubText3": "Note that your account will remain active until your request to delete the account has been processed",
+  "printReturnLabel": "Print Return Label",
+  "printLabelButtonText": "Print Return Label",
+  "inStock":"In Stock",
+  "signInRequiredDesc": "To ensure your financial information and transactions are secure, please sign in to your account to access the wallet feature. If you don't have an account yet, you can create one easily."
+
+
+}
