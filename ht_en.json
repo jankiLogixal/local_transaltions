@@ -1,0 +1,15 @@
+{
+  "@@localeHardcodedTextPartTwo": "en",
+  "scratchOffPinMsg": "Scratch-off PIN is in the lower right corner on the back of the card.",
+  "cardNumberInvalidError": "The required length for GiftCard should be between 19 and 23 characters.",
+  "eGiftCardPinMsg": "For e-gift cards please use the last four digits of the PIN.",
+  "zeroPointZero": "$0.00",
+  "upToFiveGiftCard": "Up to 5 gift cards may be applied",
+  "yourCVVTxt": "Your CVV (Card Verification Value) is the 3- or 4-digit code printed on your credit or debit card. This number verifies that you are using your own card instead of stolen information. The Exchange uses this number to make your purchase more secure and will not store it once your transaction is complete.",
+  "milstarPlus": "MilstarPlus",
+  "exchangePlusDescription": "This item is offered by one of our Exchange Plus partners – a trusted, third-party company that ships directly to you when you order on ShopMyExchange.com. The Exchange sells and handles payments for this item, and you can track the status on your Exchange order details page.",
+  "exchangePlusDescription2": "We are proud to work with our partners to bring you expanded selections and exciting products you can order online – all at tax-free, military-exclusive pricing.",
+  "maximumPasswordLength": "Maximum password length: 15",
+  "minimumPasswordLength": "Minimum password length: 6"
+
+}
